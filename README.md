@@ -7,6 +7,6 @@ TBD
 Tools:
 TBD
 
-![database design] (https://user-images.githubusercontent.com/47793125/119532947-5cb17100-bd53-11eb-9c3d-6c3668f5585d.png)
+![database design](https://user-images.githubusercontent.com/47793125/119532947-5cb17100-bd53-11eb-9c3d-6c3668f5585d.png)
 
 
